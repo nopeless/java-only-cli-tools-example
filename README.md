@@ -2,7 +2,7 @@
 
 This is a simple project to show how to use Java without an IDE
 
-All scripts are in bash. For Windows users, you can type `bash` in the command prompt to run bash scripts.
+All scripts are in bash. For Windows users, you can type `bash` in the command prompt to run bash scripts. (I recommend using git's bash as it automatically appends .exe to the java file. for wsl users, if you are still clueless after Googling, make an issue and I'll put resources)
 
 Most Java commands will work without modification
 
