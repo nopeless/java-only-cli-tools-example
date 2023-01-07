@@ -1,0 +1,6 @@
+#IDE
+.idea
+
+# Generated files
+classes
+lib
