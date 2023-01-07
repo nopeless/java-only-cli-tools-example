@@ -28,4 +28,3 @@ $ .\build-archive-run.sh <args>
 ```
 
 > You can also pass in arguments for `String[] args` in the `main` method
-
